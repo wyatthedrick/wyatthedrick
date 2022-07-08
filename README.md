@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wyatthedrick
-- 👀 I’m interested in ... Game Development, AI Development, Cryptocurrency
+- 👀 I’m interested in ... Game Development, AI, Cryptocurrency, Full Stack Development
 - 🌱 I’m currently learning ... Unity Framework, Neural Networks, Solidity
 <!--- 📫 How to reach me ... -->
 
